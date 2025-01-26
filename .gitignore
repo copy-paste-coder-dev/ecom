@@ -29,8 +29,11 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
+lib/firebase_options.dart
 
+/build/
+# Firebase specific
+firebase_options.dart
 # Symbolication related
 app.*.symbols
 
